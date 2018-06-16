@@ -5,4 +5,6 @@ practicing implementing forge
 ### IS117 Webstorm and Github Pages
 ### by keith williams
 
-Follow the instructions at 23:50
+To see your website click on the <Settings> menu and scroll to the bottom.
+
+Follow the instructions at 23:50.  (It deals with using WebStorm to push changes.)
